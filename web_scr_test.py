@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 URL = "https://realpython.github.io/fake-jobs/"
 page = requests.get(URL)
+#print(page.status_code==200)
 #print(page.text)
 soup = BeautifulSoup(page.content, "html.parser")
 #print(soup)
@@ -20,6 +21,7 @@ for el in job_elements:
     company_el = el.find("h3", class_="subtitle")
     location_el = el.find("p", class_="location")
     print(f'Position: {title_el.text.strip()}, company: {company_el.text.strip()}, location: {location_el.text.strip()}, Learn: {learn_link}, Apply: {apply_link}')
+    print('\n')
 print('\n'*2)
 
 # empty result because the search is exact
