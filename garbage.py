@@ -73,6 +73,6 @@
 # a='rea'
 # print(len(a.split(',')))
 
-y=[None, 4]
-print(y)
-print(len(y))
+# y=[None, 4]
+# print(y)
+# print(len(y))
