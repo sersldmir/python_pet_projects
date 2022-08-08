@@ -63,3 +63,16 @@
 
 # if __name__=='__main__':
 #     main_parser()
+
+# from datetime import datetime
+# date_str='2022-08-08'
+# exp_date=datetime.strptime(date_str, "%Y-%m-%d").date()
+# print(type(exp_date))
+# print(exp_date)
+
+# a='rea'
+# print(len(a.split(',')))
+
+y=[None, 4]
+print(y)
+print(len(y))
