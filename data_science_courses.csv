@@ -1,76 +1,31 @@
 ,Name of the course,Provider,Rating,Amount of reviews,Start date,Duration (weeks),Workload (hours a week)
-0,The Data Scientist’s Toolbox,Coursera,3.5,166.0,2022-08-29,4.0,4.5
-1,R Programming,Coursera,3.0,246.0,2022-08-29,4.0,14.2
-2,Computational Social Science,Coursera,5.0,105.0,,26.0,3.0
-3,The Analytics Edge,edX,4.5,80.0,,13.0,12.5
-4,Introduction to Data Science in Python,Coursera,2.5,46.0,2022-09-05,4.0,7.8
-5,Getting and Cleaning Data,Coursera,3.5,57.0,2022-08-29,4.0,5.0
-6,Become a Data Analyst,Udacity,4.5,70.0,,17.0,10.0
-7,Data Science and Agile Systems for Product Management,edX,4.5,53.0,,4.0,2.5
-8,Python for Data Science,edX,4.5,47.0,2022-12-06,10.0,9.0
-9,Introducción a la Ciencia de Datos con Python,edX,5.0,65.0,,4.0,7.0
-10,Probability - The Science of Uncertainty and Data,edX,5.0,34.0,2022-08-29,16.0,12.0
-11,Spatial Data Science: The New Frontier in Analytics,Independent,5.0,45.0,2022-10-05,6.0,2.5
-12,Mining Massive Datasets,edX,4.5,25.0,,7.0,7.5
-13,Introduction to Computational Thinking and Data Science,edX,4.5,31.0,2022-10-12,9.0,15.0
-14,Statistical Inference,Coursera,3.0,34.0,2022-08-29,4.0,13.5
-15,Regression Models,Coursera,2.5,34.0,2022-08-29,4.0,13.5
-16,Statistics and R,edX,3.5,20.0,,4.0,3.0
-17,Exploratory Data Analysis,Coursera,4.0,39.0,2022-08-29,,3.0
-18,Introduction to Big Data,Coursera,2.5,35.0,2022-08-29,3.0,5.7
-19,Data Visualization,Coursera,3.0,21.0,2022-09-05,4.0,3.8
-20,Pattern Discovery in Data Mining,Coursera,2.0,21.0,2022-09-05,4.0,4.2
-21,Finding Hidden Messages in DNA (Bioinformatics I),Coursera,4.5,17.0,2022-09-05,5.0,3.2
-22,Whole genome sequencing of bacterial genomes - tools and applications,Coursera,5.0,22.0,2022-09-12,5.0,6.5
-23,Probability and Statistics in Data Science using Python,edX,2.0,30.0,2022-12-06,10.0,11.0
-24,Making Sense of Data in the Media,FutureLearn,4.5,35.0,,3.0,3.0
-25,Introduction to Transforming with Data Analytics and the Digital Organization,edX,4.5,34.0,,4.0,2.5
-26,Reproducible Research,Coursera,4.0,27.0,2022-08-29,4.0,7.5
-27,A Crash Course in Data Science,Coursera,3.5,25.0,2022-08-29,1.0,7.5
-28,Data Science: R Basics,edX,4.5,11.0,,8.0,1.5
-29,Algorithms for Big Data (COMPSCI 229r),YouTube,5.0,2.0,,,1.0
-30,"Applied Plotting, Charting & Data Representation in Python",Coursera,2.5,9.0,2022-09-12,4.0,5.2
-31,Mastering Data Analysis in Excel,Coursera,2.0,26.0,2022-08-29,6.0,3.5
-32,Hadoop Platform and Application Framework,Coursera,2.0,25.0,2022-08-29,5.0,5.2
-33,Data Science Math Skills,Coursera,4.0,11.0,2022-09-12,4.0,3.2
-34,Biology Meets Programming: Bioinformatics for Beginners,Coursera,3.5,10.0,2022-09-05,4.0,4.8
-35,STAT115 2018,YouTube,0.0,,,,4.0
-36,STAT115 2019,YouTube,0.0,,,,4.0
-37,STAT115 2020,YouTube,0.0,,,,4.0
-38,Julia Scientific Programming,Coursera,4.0,30.0,2022-09-19,4.0,4.5
-39,People Analytics,Coursera,4.0,5.0,2022-09-05,4.0,8.5
-40,Digital Marketing Analytics in Practice,Coursera,4.0,24.0,2022-08-29,4.0,5.0
-41,Graph Analytics for Big Data,Coursera,2.5,6.0,2022-09-05,5.0,2.6
-42,Data Science Capstone,Coursera,4.5,1202.0,2022-09-12,7.0,5.5
-43,Applied Social Network Analysis in Python,Coursera,4.5,2577.0,2022-09-05,4.0,7.2
-44,Developing Data Products,Coursera,4.0,18.0,2022-08-29,4.0,2.5
-45,Managing Big Data with MySQL,Coursera,4.0,6.0,2022-09-05,5.0,6.4
-46,Statistical Thinking for Data Science and Analytics,edX,2.0,19.0,,5.0,8.5
-47,Practical Data Science with MATLAB,Coursera,5.0,31.0,,22.0,4.0
-48,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,edX,5.0,3.0,,9.0,2.5
-49,Data Science: Visualization,edX,4.5,3.0,,8.0,1.5
-50,Data Science: Machine Learning,edX,4.5,3.0,2022-10-25,8.0,3.0
-51,High-Dimensional Data Analysis,edX,3.5,3.0,,4.0,3.0
-52,Data Science: Wrangling,edX,4.5,2.0,,8.0,1.5
-53,Data Science: Probability,edX,3.5,2.0,,8.0,1.5
-54,Data Analysis Using Python,Coursera,4.5,222.0,2022-09-05,3.0,5.7
-55,Advanced Linear Models for Data Science 2: Statistical Linear Models,Coursera,4.5,79.0,2022-09-05,4.0,5.5
-56,Big Data Modeling and Management Systems,Coursera,4.5,2933.0,2022-09-05,6.0,2.2
-57,DCO042 - Python For Informatics,Independent,4.5,14.0,,,
-58,The Analytics Edge (Spring 2017),MIT OpenCourseWare,5.0,2.0,,,2.0
-59,Data Science: Productivity Tools,edX,5.0,1.0,,8.0,1.5
-60,Data Science: Inference and Modeling,edX,4.0,1.0,,8.0,1.5
-61,Data Manipulation at Scale: Systems and Algorithms,Coursera,4.5,757.0,2022-09-05,4.0,5.0
-62,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",Coursera,4.5,95.0,2022-09-05,6.0,8.2
-63,The Total Data Quality Framework,Coursera,0.0,,2022-09-05,4.0,3.0
-64,Moneyball and Beyond,Coursera,4.5,31.0,2022-09-05,5.0,5.8
-65,Measuring Total Data Quality,Coursera,0.0,,2022-09-05,4.0,8.5
-66,Prediction Models with Sports Data,Coursera,4.5,15.0,2022-09-05,5.0,6.6
-67,Design Strategies for Maximizing Total Data Quality,Coursera,0.0,,2022-09-05,4.0,8.5
-68,Introduction to Computational Thinking and Data Science (Fall 2016),MIT OpenCourseWare,0.0,,,,8.0
-69,Social Network Analysis,Coursera,5.0,5.0,2022-09-05,5.0,2.0
-70,Fundamentals of Statistics,edX,4.5,10.0,2022-08-22,17.0,12.0
-71,Building a Data Science Team,Coursera,3.5,14.0,2022-08-29,1.0,5.5
-72,Python for Genomic Data Science,Coursera,3.0,14.0,2022-09-19,4.0,8.5
-73,Fundamentals of Qualitative Research Methods,YouTube,5.0,6.0,,,1.5
-74,Big Data Analysis with Apache Spark,edX,4.5,43.0,2016-08-15,4.0,7.5
+0,The Data Scientist’s Toolbox,Coursera,3.5,166,2022-08-29,4.0,4.5
+1,R Programming,Coursera,3.0,246,2022-08-29,4.0,14.2
+2,Computational Social Science,Coursera,5.0,105,,26.0,3.0
+3,The Analytics Edge,edX,4.5,80,,13.0,12.5
+4,Introduction to Data Science in Python,Coursera,2.5,46,2022-09-05,4.0,7.8
+5,Getting and Cleaning Data,Coursera,3.5,57,2022-08-29,4.0,5.0
+6,Become a Data Analyst,Udacity,4.5,70,,17.0,10.0
+7,Data Science and Agile Systems for Product Management,edX,4.5,53,,4.0,2.5
+8,Python for Data Science,edX,4.5,47,2022-12-06,10.0,9.0
+9,Introducción a la Ciencia de Datos con Python,edX,5.0,65,,4.0,7.0
+10,Probability - The Science of Uncertainty and Data,edX,5.0,34,2022-08-29,16.0,12.0
+11,Spatial Data Science: The New Frontier in Analytics,Independent,5.0,45,2022-10-05,6.0,2.5
+12,Mining Massive Datasets,edX,4.5,25,,7.0,7.5
+13,Introduction to Computational Thinking and Data Science,edX,4.5,31,2022-10-12,9.0,15.0
+14,Statistical Inference,Coursera,3.0,34,2022-08-29,4.0,13.5
+15,Regression Models,Coursera,2.5,34,2022-08-29,4.0,13.5
+16,Statistics and R,edX,3.5,20,,4.0,3.0
+17,Exploratory Data Analysis,Coursera,4.0,39,2022-08-29,,3.0
+18,Introduction to Big Data,Coursera,2.5,35,2022-08-29,3.0,5.7
+19,Data Visualization,Coursera,3.0,21,2022-09-05,4.0,3.8
+20,Pattern Discovery in Data Mining,Coursera,2.0,21,2022-09-05,4.0,4.2
+21,Finding Hidden Messages in DNA (Bioinformatics I),Coursera,4.5,17,2022-09-05,5.0,3.2
+22,Whole genome sequencing of bacterial genomes - tools and applications,Coursera,5.0,22,2022-09-12,5.0,6.5
+23,Probability and Statistics in Data Science using Python,edX,2.0,30,2022-12-06,10.0,11.0
+24,Making Sense of Data in the Media,FutureLearn,4.5,35,,3.0,3.0
+25,Introduction to Transforming with Data Analytics and the Digital Organization,edX,4.5,34,,4.0,2.5
+26,Reproducible Research,Coursera,4.0,27,2022-08-29,4.0,7.5
+27,A Crash Course in Data Science,Coursera,3.5,25,2022-08-29,1.0,7.5
+28,Data Science: R Basics,edX,4.5,11,,8.0,1.5
+29,Algorithms for Big Data (COMPSCI 229r),YouTube,5.0,2,,,1.0
