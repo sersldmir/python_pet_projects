@@ -7,3 +7,8 @@ __indeed_scraper__ - script that is able to parse work from home jobs in indeed.
 PS: Not working anymore!
 
 __onl_course_scr__ - web scraper for classcental.com that gathers data science courses from multiple pages and saving it in a csv file (name,  provider, rating, amount of reviews, start date, duration, workload)
+
+__vk_parser__ - script that parses Russian social media VKontakte with their API and scrapes communities extracting the texts pf posts, likes and comments
+
+__live_journal_parser__ - parses Live Journal web site topics, extracts posts, their texts and authors, likes and comments
+
